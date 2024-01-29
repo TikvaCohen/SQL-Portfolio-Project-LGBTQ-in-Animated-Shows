@@ -6,3 +6,6 @@ Link to Bradd Carey's dataset: https://www.kaggle.com/datasets/braddcarey/trans-
 Link to A_N_Wilson's datasets: https://www.kaggle.com/datasets/anwilson/lgbtq-representation-in-animated-shows-in-the-us
 
 These datasets have been added to this account, but only the SQL Code is mine.
+
+Tableau Presentation for this project located at: https://public.tableau.com/app/profile/tikva.cohen/viz/LGBTQPortfolioProjectTableau/Dashboard1?publish=yes
+
