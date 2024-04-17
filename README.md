@@ -5,7 +5,9 @@ Link to Bradd Carey's dataset: https://www.kaggle.com/datasets/braddcarey/trans-
 
 Link to A_N_Wilson's datasets: https://www.kaggle.com/datasets/anwilson/lgbtq-representation-in-animated-shows-in-the-us
 
-These datasets have been added to this account, but only the SQL Code is mine.
+These datasets have been added to this account, but only the SQL code is mine.
+
+I utilized SQL to perform analysis on the data and discern patterns between representation, status, ratings, and platforms. The goal of this project was to examine trends in the representation of LGBTQ+ characters.  To display the findings a Tableau Presentation was created to help showcase patterns.  
 
 Tableau Presentation for this project located at: https://public.tableau.com/app/profile/tikva.cohen/viz/LGBTQPortfolioProjectTableau/Dashboard1?publish=yes
 
